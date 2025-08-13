@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "homepage",
   "version": "1.0.0",
-  "description": "a template",
+  "description": "A simple homepage project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
